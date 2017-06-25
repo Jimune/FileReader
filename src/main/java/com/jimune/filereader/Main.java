@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  * Created by Jim on 25 Jun 17.
  */
-public class Main {
+public class Main { 
 
     private Set<File> filesToProcess;
 
